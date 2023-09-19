@@ -38,7 +38,7 @@ public class DogKennel {
         kennel.addDog(dog1);
         kennel.addDog(dog2);
         kennel.addDog(dog3);
-
+        System.out.println(dog1.calculateHumanAge());
         kennel.displayDogs();
     }
 }

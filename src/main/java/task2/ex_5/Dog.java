@@ -27,7 +27,7 @@ public class Dog {
     }
 
     public int calculateHumanAge() {
-        return age * 7;
+        return this.age * 7;
     }
 
     @Override
