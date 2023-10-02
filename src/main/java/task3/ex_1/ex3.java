@@ -8,7 +8,7 @@ public class ex3 {
         Random random = new Random();
 
         for (int i = 0; i < array.length; i++) {
-            array[i] = random.nextInt(90) + 10; // Генерируем случайное число от 10 до 99
+            array[i] = random.nextInt(90) + 10;
         }
 
         System.out.print("Массив: ");
