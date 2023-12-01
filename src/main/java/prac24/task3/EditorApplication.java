@@ -45,6 +45,7 @@ public class EditorApplication {
             }
         });
 
+        ///gfdsgfsdgfdsgfds
         JMenuItem exitMenuItem = new JMenuItem("Exit");
         exitMenuItem.addActionListener(new ActionListener() {
             @Override
